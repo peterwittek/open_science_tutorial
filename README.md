@@ -16,4 +16,4 @@ Files
  
  - improve_me.py: A Python script that could see lots of improvement.
  
- - example_notebook.ipynb: An example Jupyter notebook. View it [here](nbviewer.ipython.org/github/peterwittek/open_science_tutorial/blob/master/example_notebook.ipynb).
+ - example_notebook.ipynb: An example Jupyter notebook. View it [here](http://nbviewer.ipython.org/github/peterwittek/open_science_tutorial/blob/master/example_notebook.ipynb).
