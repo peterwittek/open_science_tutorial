@@ -12,7 +12,7 @@ Files
 
  - README.md: This file containing basic documentation in Markdown format.
  
- - practical_open_science.tex: Source file for slides. View the slides here.
+ - practical_open_science.tex: Source file for slides. View the slides [here](http://www.slideshare.net/peter_wittek/practical-open-science).
  
  - improve_me.py: A Python script that could see lots of improvement.
  
