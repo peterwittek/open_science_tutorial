@@ -8,3 +8,16 @@ print "This script is not perfect"
 random_numbers = []
 for i in range(10):
     random_numbers.append(random.random())
+
+# Don't do this. Just don't.
+for i in range(len(random_numbers)):
+    print random_numbers[i]
+
+# This loop could be rewritten with enumerate
+i = 0
+for r in random_numbers:
+    print(i, r)
+    i += 1
+
+# This is not C
+if(len(random_numbers)>5): print("Lots of random numbers here")
