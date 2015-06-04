@@ -34,7 +34,7 @@ Push this commit to GitHub:
     
 Send a pull request on GitHub to merge your changes.
 
-There will also be changes made by others. To keep things in sync in your own repository, first add the upstream link to your repository (you only have to this once):
+There will also be changes made by others. To keep things in sync in your own repository, first add the upstream link to your repository (you only have to do this once):
 
     git remote add upstream https://github.com/peterwittek/open_science_tutorial.git
 
