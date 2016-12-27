@@ -1,13 +1,11 @@
 # The header is missing and there are unnecessary imports
-import random, getopt, sys, os
+import random #getopt, sys, os
 
 # This line will only work in Python 2
-print "This script is not perfect"
+print("This script is not perfect")
 
 # The following loop could be written in a single line with list comprehension
-random_numbers = []
-for i in range(10):
-    random_numbers.append(random.random())
+random_numbers = [random.random() for i in range(10)]
 
 # Don't do this. Just don't.
 for i in range(len(random_numbers)):
@@ -21,3 +19,5 @@ for r in random_numbers:
 
 # This is not C
 if(len(random_numbers)>5): print("Lots of random numbers here")
+
+#just an example
